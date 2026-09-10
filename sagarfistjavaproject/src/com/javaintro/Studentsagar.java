@@ -23,8 +23,6 @@ public class Studentsagar {
 		System.out.println(s1.salary$);
 		s1.read();
 		s1.write();
-		
-
-	}
+		}
 
 }
